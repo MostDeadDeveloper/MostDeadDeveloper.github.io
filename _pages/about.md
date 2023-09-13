@@ -21,4 +21,4 @@ Throughout my career I mostly worked with non-profits, government agencies, smal
 
 I also contribute to open source initiatives I feel interested in such as increasing language representation through the Aya Initiative  and contributing to the Python user base through Python related  Events such as WFH Pythonista and Pycon!
 
-For more information, please check out my [CV][]
+For more information, please check out my [CV](/cv/)
