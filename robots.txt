@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://MostDeadDeveloper.github.io/sitemap.xml
+Sitemap: https://aboutme.carl-dev.tech//sitemap.xml
