@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Using AI For Predicting Deforestation Drivers
-description:  I helped pre-process the needed data and make the dashboard needed for this initiative!
-img: https://site-assets.plasmic.app/49d3af35a10bffafcc61daf80ef2801a.jpg
-redirect: https://stories.thinkingmachin.es/drivers-of-deforestation-gerry-roxas-foundation/
+title: Communiteer System
+description:  I helped developed this platform during my stay in Ethos Bytes! I was mostly responsible on developing the APIs, UI interfaces and asynchronous functions of the overall platform.
+img: https://communiteer.org/wp-content/uploads/2022/08/Ecosystem-white-1-2048x835.png
+redirect: https://app.communiteer.org/user/login/
 importance: 3
 category: work
 ---
