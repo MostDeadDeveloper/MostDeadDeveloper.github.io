@@ -14,9 +14,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 selected_projects: true # includes a list of projects marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hello I am Carl,  a professional with experience as a  researcher,  data engineer & analyst mostly working on problems and  applications of geospatial and career-related text data for more than 3 years now. 
+Hello I am Carl,  a professional with experience as a  researcher,  data engineer & analyst mostly working on problems and  applications of geospatial and career-related text data for more than 3 years now.
 
-I also recently graduated with my undergraduate degree in Computer Science.
+I am also a fellow in the [Al-Fihri Predoctoral Fatima Fellowship](https://www.fatimafellowship.com/) Program.
 
 Throughout my career I mostly worked with non-profits, government agencies, small and large-scale businesses.
 
