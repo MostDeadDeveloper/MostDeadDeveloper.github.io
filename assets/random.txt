@@ -1,0 +1,24 @@
+from spire.presentation import *
+
+# Function to merge multiple presentations sequentially into a new presentation
+def merge_presentations(presentation_files, output_file):
+    # Create a new presentation
+    merged_presentation = Presentation()
+    # Remove the default empty slide in the new presentation
+    merged_presentation.Slides.RemoveAt(0)
+
+    for file in presentation_files:
+        # Load each presentation
+        presentation = Presentation()
+        presentation.LoadFromFile(file)    
+        for slide in presentation.Slides:
+            # Copy each slide to the new presentation
+            merged_presentation.Slides.AppendBySlide(slide)
+
+    # Save the new presentation
+    merged_presentation.SaveToFile(output_file, FileFormat.Pptx2016)
+
+# PowerPoint files_to_merge
+files_to_merge = ["presentation1.pptx", "presentation2.pptx", "presentation3.pptx"]
+# Call the function to merge the files sequentially
+merge_presentations(files_to_merge, "merged_presentation.pptx")
